@@ -1,0 +1,11 @@
+c:\users\serge\source\repos\Coshelec_testTask\Coshelec_testTask\bin\Debug\netcoreapp2.0\Coshelec_testTask.deps.json
+c:\users\serge\source\repos\Coshelec_testTask\Coshelec_testTask\bin\Debug\netcoreapp2.0\Coshelec_testTask.runtimeconfig.json
+c:\users\serge\source\repos\Coshelec_testTask\Coshelec_testTask\bin\Debug\netcoreapp2.0\Coshelec_testTask.runtimeconfig.dev.json
+c:\users\serge\source\repos\Coshelec_testTask\Coshelec_testTask\bin\Debug\netcoreapp2.0\Coshelec_testTask.dll
+c:\users\serge\source\repos\Coshelec_testTask\Coshelec_testTask\bin\Debug\netcoreapp2.0\Coshelec_testTask.pdb
+c:\users\serge\source\repos\Coshelec_testTask\Coshelec_testTask\obj\Debug\netcoreapp2.0\Coshelec_testTask.csprojResolveAssemblyReference.cache
+c:\users\serge\source\repos\Coshelec_testTask\Coshelec_testTask\obj\Debug\netcoreapp2.0\Coshelec_testTask.csproj.CoreCompileInputs.cache
+c:\users\serge\source\repos\Coshelec_testTask\Coshelec_testTask\obj\Debug\netcoreapp2.0\Coshelec_testTask.AssemblyInfoInputs.cache
+c:\users\serge\source\repos\Coshelec_testTask\Coshelec_testTask\obj\Debug\netcoreapp2.0\Coshelec_testTask.AssemblyInfo.cs
+c:\users\serge\source\repos\Coshelec_testTask\Coshelec_testTask\obj\Debug\netcoreapp2.0\Coshelec_testTask.dll
+c:\users\serge\source\repos\Coshelec_testTask\Coshelec_testTask\obj\Debug\netcoreapp2.0\Coshelec_testTask.pdb

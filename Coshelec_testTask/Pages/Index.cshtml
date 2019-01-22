@@ -1,0 +1,16 @@
+﻿@page
+@using RazorPages
+
+
+@model IndexModel
+
+@using (Html.BeginForm())
+{
+    <label for="code">Введите код пользователя, которому придет оповещение</label>
+    <input type="text" asp-for="code">
+    <br />
+    <label for="message">Введите сообщение</label>
+    <input type="text" asp-for="message">
+    <br />
+    <input type="submit" id="Submit">
+}
